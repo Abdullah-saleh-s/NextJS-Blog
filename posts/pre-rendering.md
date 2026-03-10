@@ -1,4 +1,4 @@
 ---
 title: 'Two Forms of Pre-rendering'
-data: '2020-01-01'
+date: '2020-01-06'
 ---
